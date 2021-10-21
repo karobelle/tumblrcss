@@ -1,4 +1,4 @@
-#player{display:none !important;}
+#player, #playlist, #volume{display:none !important;}
 #player,#player a{ color:#BEBEBE;  font-size: 12px; font-family: tahoma;}
 #player{ background:url(http://static.tumblr.com/d41lcii/BsOmfd49y/reeducarvolume.png); background-position:bottom; background-color: #ffffff;}
 #player .mainImage{ background:url(http://static.tumblr.com/d41lcii/boImfd49d/skinsimplesgray.png); }
